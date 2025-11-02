@@ -90,10 +90,7 @@ void client(int wfd, int rfd) {
 ```
 
 ## OUTPUT
-![alt text](<../../Screenshot at 2025-11-01 00-03-04.png>)
-
-
-
+![alt text](<Screenshot at 2025-11-01 00-03-04.png>)
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
 
@@ -186,7 +183,7 @@ void client() {
 ```
 
 ## OUTPUT
-![alt text](<../../Screenshot at 2025-11-01 00-06-52.png>)
+![alt text](<Screenshot at 2025-11-01 00-06-52.png>)
 
 
 # RESULT:
